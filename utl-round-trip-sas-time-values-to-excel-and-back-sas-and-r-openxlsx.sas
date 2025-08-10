@@ -12,6 +12,12 @@ sas communities
 https://tinyurl.com/3ft266uj
 https://communities.sas.com/t5/SAS-Programming/Write-SAS-Time-fields-to-Excel-loses-time-format/td-p/751568
 
+related repos
+https://github.com/rogerjdeangelis/utl-Import-the-datepart-of-an-excel-datetime-formatted-columns
+https://github.com/rogerjdeangelis/utl-importing-excel-datetime-values-in-xlsx-and-xlsx-workbooks
+https://github.com/rogerjdeangelis/utl-safe-way-import-excel-time-value
+https://github.com/rogerjdeangelis/utl-safely-sending-dates-or-datetimes-back-and-forth-to-excel
+
 /**************************************************************************************************************************/
 /* d:/xls/sheet1.xlsx               | 1 SAS TIME VALUES TO EXCEL TIME           | SD1.WANT                                */
 /*                                  | ===============================           |                                         */
